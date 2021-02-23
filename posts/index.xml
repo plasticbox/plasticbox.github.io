@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>box</title>
-    <link>https://plasticbox.github.io/</link>
-    <description>Recent content on box</description>
+    <title>Posts on box</title>
+    <link>https://plasticbox.github.io/posts/</link>
+    <description>Recent content in Posts on box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>plasticbox</copyright>
-    <lastBuildDate>Fri, 19 Feb 2021 02:18:18 +0900</lastBuildDate><atom:link href="https://plasticbox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 02:18:18 +0900</lastBuildDate><atom:link href="https://plasticbox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>기록을 다시 시작했다.</title>
       <link>https://plasticbox.github.io/posts/2021-02-19-start/</link>
@@ -19,15 +19,6 @@
 특별한 무엇인가를 기록했던 것은 아닌데&amp;hellip; 그래도 유지하면서 공부도 하고 나름대로 토이 프로젝트 느낌으로 다양한 기술들에 흥미를 유발시키는 장치 정도의 역활은 해주었다.
 그때보다 기술적으로나 자금적으로는 좀 더 나아졌을지 모르겠지만 번아웃에서 아직 완전히 헤어나오지 못한 심리상태와 온전히 집중하기 힘든 주변환경으로 인해 일단 가볍에 github.io 로 시작을 해본다.
 github.io로 예전에 Jekyll을 사용했던것 같은데 이번에는 Hugo로 선택을 했다.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://plasticbox.github.io/about/</link>
-      <pubDate>Fri, 19 Feb 2021 02:06:06 +0900</pubDate>
-      
-      <guid>https://plasticbox.github.io/about/</guid>
-      <description>Github: plasticbox</description>
     </item>
     
   </channel>
